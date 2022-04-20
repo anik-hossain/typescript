@@ -1,0 +1,25 @@
+{
+    "name": "typescript",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anik-hossain/typescript.git"
+    },
+    "keywords": [
+        "Typescript"
+    ],
+    "author": "Anik Hossain",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anik-hossain/typescript/issues"
+    },
+    "homepage": "https://github.com/anik-hossain/typescript#readme",
+    "devDependencies": {
+        "typescript": "^4.6.3"
+    }
+}
